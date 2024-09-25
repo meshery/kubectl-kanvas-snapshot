@@ -14,7 +14,7 @@ replace (
 
 require (
 	cuelang.org/go v0.6.0
-	fortio.org/fortio v1.66.2
+	fortio.org/fortio v1.66.5
 	github.com/99designs/gqlgen v0.17.45
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/briandowns/spinner v1.23.1
@@ -66,7 +66,7 @@ require (
 	golang.org/x/text v0.18.0
 	gonum.org/v1/gonum v0.15.0
 	google.golang.org/api v0.195.0
-	google.golang.org/grpc v1.66.0
+	google.golang.org/grpc v1.66.2
 	google.golang.org/protobuf v1.34.2
 	gopkg.in/yaml.v2 v2.4.0
 	gorm.io/gorm v1.25.11
@@ -93,6 +93,7 @@ require (
 	fortio.org/cli v1.9.0 // indirect
 	fortio.org/dflag v1.7.2 // indirect
 	fortio.org/log v1.16.0 // indirect
+	fortio.org/safecast v1.0.0 // indirect
 	fortio.org/scli v1.15.2 // indirect
 	fortio.org/sets v1.2.0 // indirect
 	fortio.org/struct2env v0.4.1 // indirect
