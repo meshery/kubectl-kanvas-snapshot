@@ -116,7 +116,7 @@
     "@babel/eslint-parser": "^7.22.11",
     "@babel/types": "^7.23.5",
     "@next/eslint-plugin-next": "^13.1.2",
-    "@playwright/test": "^1.44.0",
+    "@playwright/test": "^1.47.2",
     "@storybook/addon-interactions": "^8.1.5",
     "@storybook/addon-styling": "^1.0.8",
     "@storybook/manager-webpack5": "^6.5.16",
