@@ -55,24 +55,8 @@ A self-service engineering platform, <a href="https://meshery.io">Meshery</a>, i
 
 <br />
 <br />
-<### Current Behavior
 
-
-### Desired Behavior
-`kubectl` plugin for Kanvas Snapshots.
-
-
-### Implementation
-
-### Distribution of Plugin
-
-1. Krew: Krew is the official plugin manager for kubectl, maintained by the Kubernetes SIG CLI community. It provides a centralized repository and easy installation mechanism for plugins.   
-Submitting your plugin to Krew involves creating a plugin manifest and going through a review process. This ensures quality and consistency across plugins.   
-    1. Users can discover and install the plugin using `kubectl krew install kanvas`.
-    2. Check the Krew documentation for detailed instructions on submitting plugins: https://krew.sigs.k8s.io/docs/developer-guide/plugin-manifest/
-
-
-3. Direct Distribution:  Distribute the plugin directly, by providing installation instructions and making the executable available for download as a set of architecture-specific artifacts on GitHub releases.
+A `kubectl` plugin for Kanvas Snapshots.
 
 
 <div>&nbsp;</div>
