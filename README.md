@@ -33,19 +33,18 @@ alt="Meshery Logo" width="70%" /></picture></a><br /><br /></p>
 </p>
 
 <h5><p align="center"><i>If you like Meshery, please <a href="https://github.com/meshery/meshery/stargazers">★</a> this repository to show your support! 🤩</i></p></h5>
-<p align="center" >
-MESHERY IS A CLOUD NATIVE COMPUTING FOUNDATION PROJECT
-</p>
+
 
 <div align="center" width="100%">
 <img src=".github/assets/images/readme/cncf-white.svg#gh-dark-mode-only" width="30%" align="center" />
 <img src=".github/assets/images/readme/cncf-black.svg#gh-light-mode-only" width="30%" align="center" />
+<p align="center"><sup>MESHERY IS A CLOUD NATIVE COMPUTING FOUNDATION PROJECT</sup></p>
 </div>
-<br />
+
 <p align="center">
 A self-service engineering platform, <a href="https://meshery.io">Meshery</a>, is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud). Among other features,  As an extensible platform, Meshery offers visual and collaborative GitOps, freeing you from the chains of YAML while managing Kubernetes multi-cluster deployments.
 </p>
-<br />
+
 
 <!-- [Meshery](https://meshery.io) is the cloud native management plane offering lifecycle, configuration, and performance management of Kubernetes, service meshes, and your workloads. -->
 <div align="center" width="100%">
@@ -56,8 +55,9 @@ A self-service engineering platform, <a href="https://meshery.io">Meshery</a>, i
 <br />
 <br />
 
-A `kubectl` plugin for Kanvas Snapshots.
+# kubectl kanvas snapshot
 
+A `kubectl` plugin for Kanvas Snapshots.
 
 <div>&nbsp;</div>
 
@@ -115,15 +115,6 @@ Please do! We're a warm and welcoming community of open source contributors. Ple
 <!-- <a href="https://youtu.be/MXQV-i-Hkf8"><img alt="Deploying Linkerd with Meshery" src="https://docs.meshery.io/assets/img/readme/deploying-linkerd-with-meshery.png" width="100%" align="center" /></a> -->
 
 <div>&nbsp;</div>
-
-### Stargazers
-
-<p align="center">
-  <i>If you like Meshery, please <a href="../../stargazers">★</a> star this repository to show your support! 🤩</i>
- <br />
-<a href="../../stargazers">
- <img align="center" src="https://api.star-history.com/svg?repos=meshery/meshery&type=Date" />
-</a></p>
 
 ### License
 
