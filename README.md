@@ -47,7 +47,7 @@ alt="Meshery Logo" width="70%" /></picture></a><br /><br /></p>
 A `kubectl` plugin for rendering Kanvas Snapshots. `kanvas snapshot` is a native kubectl plugin for conveniently creating a visual snapshot of the combination of multiple Kubernetes manifest files, each containing one or more Kubernetes resources. A native kubetcl CLI plugin for conveniently creating a visual snapshot of a collection of Kubernetes manifests.
 </p>
 
-## Meshery Extension: Kanvas Snapshot Kubectl Plugin
+## About Meshery Extensions
 
 [Meshery Extensions](https://meshery.io/extension) are plugins or add-ons that enhance the functionality of the Meshery platform beyond its core capabilities. Meshery supports different types of extensions ([docs](https://docs.meshery.io/extensions/)):
 
